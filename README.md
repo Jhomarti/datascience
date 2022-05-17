@@ -1,4 +1,2 @@
-# datascience
-## Editing the file
-
-Its a markdown file in this repository.
+# display the output
+print("New python file")
